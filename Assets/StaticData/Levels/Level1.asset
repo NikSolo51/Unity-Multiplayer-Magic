@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92a2367527b6cca43b7c330e184d4a04, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  InitGameWorld: 1
+  LevelKey: Level1
+  SoundManagerData:
+    _soundManagerType: 1
+    _sounds:
+    - name: BG
+      clip: {fileID: 8300000, guid: f7f5e61c597978547a5085b11a9c97fc, type: 3}
+      masterVolume: 1
+      masterPitch: 1
+      volume: 0.032
+      pitch: 1
+      randomVolume: 0.1
+      randomPitch: 0.1
+      playOnAwake: 1
+      loop: 0
+      source: {fileID: 0}
+    _clips: []
+  SpawnPoints:
+  - {x: -6.430004, y: 0.41738737, z: -20.000002}
+  - {x: -6.4300003, y: 0.41738737, z: 20.000004}
+  - {x: -3.430003, y: 0.41738737, z: -20.000002}
+  - {x: -3.429999, y: 0.41738737, z: 20.000002}
+  - {x: -0.43000206, y: 0.41738737, z: -20.000002}
+  - {x: -0.42999825, y: 0.41738737, z: 20.000002}
+  - {x: 2.5699985, y: 0.41738737, z: -20.000002}
+  - {x: 2.5700023, y: 0.41738737, z: 20.000002}
+  - {x: 5.5699997, y: 0.41738737, z: -20.000002}
+  - {x: 5.5700035, y: 0.41738737, z: 20.000002}

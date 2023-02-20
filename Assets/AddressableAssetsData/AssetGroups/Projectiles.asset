@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Projectiles
+  m_EditorClassIdentifier: 
+  m_GroupName: Projectiles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dfb852933d25f3644a0a35e536c8c97c
+  m_SerializeEntries:
+  - m_GUID: d1e7bd7384ba4b0468f2726ededc3e66
+    m_Address: FireBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adc42650c044c964f8ee964f0c94b6c4
+    m_Address: FireIceArrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 079cfd8bec6eecb439852326780d1428
+    m_Address: IceArrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1369d0b63537a83409686df80da55629
+    m_Address: SlowDownBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d1d2e1d84488c944a9c319af7091d492, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1a325468f1093bb44a6dc75abc7ac32a, type: 2}
+    - {fileID: 11400000, guid: c07173a8d90cd10499091ce15acb12a0, type: 2}
